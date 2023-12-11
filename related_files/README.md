@@ -1,4 +1,4 @@
-# angular-e01 &mdash; Programmation d'un document Web avec Angular
+# angular-e04 &mdash; Utilisation de composants Material Design
 [README](../README.md) &mdash; Angular
 
 ## Démonstration
