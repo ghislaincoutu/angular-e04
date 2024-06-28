@@ -1,9 +1,6 @@
 # angular-e04 &mdash; Utilisation de composants Material Design
 [README](../README.md) &mdash; Angular
 
-## Démonstration
-https://ghislaincoutu.ca/r002/angular-e04
-
 ## Commandes Angular à exécuter pour générer les composants de l'exercice
 ```sh
 ng add @angular/material
