@@ -3,7 +3,7 @@
 
 ## Commandes Angular à exécuter pour générer les composants de l'exercice
 ```sh
-ng add @angular/material
+npm add @angular/material
 ```
 
 Thème Material Design sélectionné :
