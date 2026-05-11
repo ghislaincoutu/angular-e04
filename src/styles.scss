@@ -1,5 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
 
+/*
+Il est important d'importer un thème Material prédéfini.
+Autrement, certains éléments, comme les boutons, ne vont pas être visibles.
+*/
+@import "@angular/material/prebuilt-themes/indigo-pink.css";
+
 * {
   box-sizing: border-box;
 }
@@ -47,9 +53,6 @@ footer {
     margin: 12px 0 6px 0;
     color: #333;
     font-size: 1.6rem;
-  }
-  h2:first-child {
-    margin-top: 0;
   }
   p.subtitle {
     margin: 0 0 6px 0;
