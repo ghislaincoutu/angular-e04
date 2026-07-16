@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "angular-e04": {
+    "angular04": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -61,10 +61,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "angular-e04:build:production"
+              "buildTarget": "angular04:build:production"
             },
             "development": {
-              "buildTarget": "angular-e04:build:development"
+              "buildTarget": "angular04:build:development"
             }
           },
           "defaultConfiguration": "development"

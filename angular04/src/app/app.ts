@@ -12,5 +12,5 @@ import { MatSlideToggleModule } from '@angular/material/slide-toggle';
   styleUrl: './app.scss'
 })
 export class App {
-  protected readonly title = signal('angular-e04');
+  protected readonly title = signal('angular04');
 }
